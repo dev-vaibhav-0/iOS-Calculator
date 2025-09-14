@@ -21,7 +21,7 @@ Copy-paste this in your terminal to get started instantly:
 # Make sure Python 3.10+ is installed before running this
 
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/iOS-Calculator.git
+git clone https://github.com/dev-vaibhav-0/iOS-Calculator.git
 
 # 2. Go into the project directory
 cd iOS-Calculator
